@@ -1,6 +1,8 @@
-# The room analysis coding challenge
+4# The room analysis coding challenge
 ## Author
 [Aurelle ADJAHOU](https://github.com/ds-aurelle1)
+
+All vizualisation have been done in tableau desktop
 
 ### Review and analysis of Business questions
 
@@ -21,4 +23,3 @@ Going down into details, let us see in [top courses](https://public.tableau.com/
 Let suppose 1000$/lecture cost and a simple like operator.Let assume that the big courses category we have is subject category so we have Business Finance courses, Graphic Design courses, Musical Instruments courses and at the end Web Development courses. Profit is the difference between revenue and cost and as we are prices and number of subscribers which is quantity, we can compute revenue by doing prices time numbers of subscribers and summurize them.
 
 As we have 1000$ per lecture cost, the cost will be equal to 1000$ time number of lectures for each courses and total cost will be the sum each individual cost. We can see visual in [cousrses profit visual](https://public.tableau.com/authoring/Aurelle-theroomAnalysis/profitbytypecourses#2). So, at the end of computting, we have get a profit of 737 404 315 whose 76.95% come from web development courses and 11.52% from Business Finance courses. Thus Trading courses are more profitable then planning courses.
-
